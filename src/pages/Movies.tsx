@@ -124,6 +124,7 @@ const Movies = () => {
                   year={movie.year}
                   rating={movie.rating}
                   genre={movie.genre}
+                  type="movie"
                 />
               </div>
             ))}

@@ -124,6 +124,7 @@ const Series = () => {
                   year={show.year}
                   rating={show.rating}
                   genre={show.genre}
+                  type="series"
                 />
               </div>
             ))}
